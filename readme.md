@@ -14,5 +14,7 @@ npm install
 ## Run the app
 Open the command prompt
 Navigate to the test-suite folder
-run the following command
+run the following command:
+```bash
 testcafe chrome:headless suite.js
+```
