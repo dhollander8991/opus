@@ -4,7 +4,9 @@ This app is an exercise for opus security intended to test the entities API
 ## Installation
 
 ### To install the project clone the repository
-
+```bash
+https://github.com/dhollander8991/opus.git
+```
 
 ### Then run 
 ```bash
@@ -18,3 +20,5 @@ run the following command:
 ```bash
 testcafe chrome:headless suite.js
 ```
+## Example
+Check out the video in the assets folder 
